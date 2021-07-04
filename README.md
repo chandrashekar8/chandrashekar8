@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandrashekar
+- 👋 Hi, I’m Chandrashekar
 - 👀 I’m interested in trading stocks and crypto  
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on algo trading on Indian crypto platforms 
